@@ -126,7 +126,6 @@ Ran all test suites.
 
 - **Javascript 코드가 아닌 Typescript 코드로만 구현해야 한다.**
 - **Swagger**를 이용하여 API 명세를 작성한다.
-- **package.json**에 명시된 라이브러리만을 이용하여 구현한다.
 - **eslint**, **prettier** 등의 코드 포맷팅 라이브러리를 이용하여 제공된 코드 컨벤션에 맞추어 코드를 작성한다.
 - `node`, `npm` 버전은 `package.json`에 명시된 버전을 사용한다. [Volta를 이용하여 node 버전을 관리한다.](https://docs.volta.sh/guide/getting-started)
 
